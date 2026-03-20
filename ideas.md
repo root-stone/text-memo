@@ -45,7 +45,7 @@
 + Robotiq wrist cameraのティーチングやり直しできる
 + 始点、終点指定で移載できる
 
-## TriOrb
+## TxxOxx
 + グラフ理論で経路生成
 + 360deg SLSで狭路で細かく変更
 
