@@ -21,6 +21,7 @@
   + あの製品はどこまで処理が進んだ？
 + PC画面の状況判定
   + RPAの結果判定、トラブル判定に使える
++ TriOrbにTiinyを載せて、VLMを使いたい
 
 ## ARS/TTS活用
 + サーバー
@@ -36,6 +37,9 @@
 ## picoclaw
 + shellコマンド実行
   + python実行し、結果を受け取れる
+ 
+## Supressense+IMU
++ 精度の良いIMUで、VLM
 
 ## build123D
 + 手書きイラストから3Dデータ生成
@@ -45,7 +49,7 @@
 + Robotiq wrist cameraのティーチングやり直しできる
 + 始点、終点指定で移載できる
 
-## TriOrb
+## TxxOxx
 + グラフ理論で経路生成
 + 360deg SLSで狭路で細かく変更
 
@@ -58,8 +62,21 @@
 ## gitlab
 + DFOの全員が使えるべきツール
 
+## skills for DFO operater
++ mermaid記法の習得
++ gitlab
++ databaseの基礎的な体験、データが更新される、RDBの体験
++ 3Dプリンター
++ アルミフレーム設計
++ クリーン知識、異物測定、気流測定
++ SPC知識
++ MQTT知識
++ サーバーTTS
++ IE手法
+
 ## 生成AI活用
 + DFOの全員が活用提案できるレベル
+  + 人、ルールベースと異なるのは、大量のデータからサマリーを提示できる。何回もてわきる。
 
 ## Androidタブレットの活用
 + 品付レス

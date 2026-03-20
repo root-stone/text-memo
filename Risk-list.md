@@ -5,6 +5,7 @@ no# Safety Risk List
 - **Reduction:**
   - 障害物検知距離センサー
   - 迂回路を設ける
+  - 退避ボタンつけて欲しい。Amazon dash button 
 
 ## PEB付近の扉を開けたらAMRが稼働中
 - **Risk:** 驚く、ぶつかる
