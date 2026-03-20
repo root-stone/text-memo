@@ -17,6 +17,7 @@
   + あの製品はどこまで処理が進んだ？
 + PC画面の状況判定
   + RPAの結果判定、トラブル判定に使える
++ TriOrbにTiinyを載せて、VLMを使いたい
 
 ## ARS/TTS活用
 + サーバー
@@ -32,6 +33,9 @@
 ## picoclaw
 + shellコマンド実行
   + python実行し、結果を受け取れる
+ 
+## Supressense+IMU
++ 精度の良いIMUで、VLM
 
 ## build123D
 + 手書きイラストから3Dデータ生成
