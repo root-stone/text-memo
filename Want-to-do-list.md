@@ -12,7 +12,7 @@
 ## AMRの意識
 
 
-## TEST
+## Mermaid記法
 ```mermaid
 graph TD
     A[開始] --> B[処理]
